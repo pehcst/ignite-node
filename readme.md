@@ -7,14 +7,14 @@
 	<img alt="With" src="https://img.shields.io/badge/and-Rocketseat-664BB1">
 </p>
 
-## 👨🏻‍💻 Hi everyone, All my projects for node js Ignite.
+## 👨🏻‍💻 Hi everyone, All my projects for Node.js Ignite.
 
 To make this project more organized, I moved the applications to different repositories.
 
 Here are the links to them
 
 #Chapter 1
-- #1 Challenge -> [xxx](#)
+- #1 finAPI -> [Finance API app](https://github.com/pehcst/finAPI)
 
 
 ## 📝 License
